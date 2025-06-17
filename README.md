@@ -83,14 +83,15 @@ Stock-Trading-System/
 ├── scripts/
 │   ├── fetch_data.py              
 │   ├── manage_portfolio.py        
-│   ├── trading_simulation.py      
-│   └── model_utils.py             
+│   ├── trading_simulation.py
+│   ├── app.py
+│   └── lab.py             
 ├── frontend/
 │   ├── index.html                 
 │   ├── style.css                  
 │   └── main.js                    
 ├── helper/
-    ├── code_explanation.txt   
+│   ├── code_explanation.txt   
 │   └── requirements.txt               
 └── READ.md              
 ```
