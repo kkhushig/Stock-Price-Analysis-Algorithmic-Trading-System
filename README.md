@@ -89,8 +89,9 @@ Stock-Trading-System/
 │   ├── index.html                 
 │   ├── style.css                  
 │   └── main.js                    
-├── database/
-│   └── schema.sql                 
+├── helper/
+    ├── code_explanation.txt   
+│   └── requirements.txt               
 └── READ.md              
 ```
 
