@@ -1,0 +1,2 @@
+lab.py, app.py, script.js, styles.css, index.html, requirements.txt : GUI implementation
+tradingalgo.py: jupyter implementation of code
